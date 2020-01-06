@@ -3,5 +3,5 @@
 
 
 def fizzbuzz(num)
-  return 
+  return num % 3 == 0 && num % 5 == 0
 end
